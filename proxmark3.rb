@@ -3,7 +3,6 @@ class Proxmark3 < Formula
   homepage "http://www.proxmark.org"
   url "https://github.com/stoja/proxmark3/archive/1.0.tar.gz"
   head "https://github.com/stoja/proxmark3.git"
-  sha256 :no_check
 
   depends_on "automake" => :build
   depends_on "readline"
