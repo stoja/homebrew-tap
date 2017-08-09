@@ -1,7 +1,7 @@
 class Proxmark3 < Formula
   desc "Proxmark3 client, flasher, HID flasher and firmware bundle"
   homepage "http://www.proxmark.org"
-  url "https://github.com/Proxmark/proxmark3/archive/v2.3.0.tar.gz"
+  url "https://github.com/stoja/proxmark3/archive/master.zip"
   sha256 "7571a50af0ab58853f037649de0afab4161022088d459e8b1e5c567e31a8d241"
   head "https://github.com/Proxmark/proxmark3.git"
 
